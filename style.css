@@ -11,27 +11,6 @@ body {
   line-height: 1.6;
 }
 
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 50px;
-  background-color: #292953;
-}
-
-.navbar .brand {
-  font-size: 1.5rem;
-  font-weight: bold;
-}
-
-.nav-buttons a {
-  margin-left: 20px;
-  padding: 10px 20px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
 .hero {
   display: flex;
   align-items: center;
@@ -54,14 +33,6 @@ body {
   color: #cbd5e1;
 }
 
-.cta-btn {
-  background-color: #2979ff;
-  color: white;
-  padding: 12px 24px;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-}
 
 .hero-images {
   position: relative;
